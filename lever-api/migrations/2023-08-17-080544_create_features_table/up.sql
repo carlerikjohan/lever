@@ -1,0 +1,5 @@
+CREATE TABLE features (
+    id TEXT PRIMARY KEY NOT NULL,
+    name VARCHAR NOT NULL,
+    enabled BOOLEAN DEFAULT 0 NOT NULL
+);

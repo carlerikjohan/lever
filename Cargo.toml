@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["lever-core", "lever-api", "lever-client"]
